@@ -33,7 +33,7 @@ I am a **Data Scientist** specializing in turning complex data challenges into a
 
 
 #### Education & Expertise:
-**Master of Science (M.S.) in Management and Systems, New York University (NYU):** Specialization in Database Technologies, Data Analytics, and Applied Data Science.
+**Master of Science (M.S.) in Management and Systems**, New York University (NYU): Specialization in **Database Technologies, Data Analytics, and Applied Data Science**.
 
 I am currently focused on **Time Series Forecasting, Predictive Modeling, and Advanced Analytics.** I continue learning to deepen my skills in ML Pipelines and Deployment Workflows. I thrive in collaborative environments, translating data into business impact.
 
