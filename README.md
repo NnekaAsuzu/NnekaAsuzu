@@ -41,11 +41,11 @@ I am currently focused on **Time Series Forecasting, Predictive Modeling, and Ad
 
 | Category | Tools & Technologies |
 | :--- | :--- |
-| **Languages** | Python (Pandas, NumPy, Scikit-learn), SQL |
-| **Machine Learning** | Regression, Classification, Clustering, Time Series (ARIMA/Prophet), XGBoost, Random Forest |
-| **Data Visualization** | Matplotlib, Seaborn, Plotly Dash, Power BI, Tableau |
-| **Analytics & Experimentation**| A/B Testing, Statistical Analysis, Feature Engineering |
-| **Cloud/Version Control**| Git/GitHub, Azure ML Pipelines, Jupyter Notebooks |
+| **Programming & Data Tools** | Python (Pandas, NumPy, Scikit-learn), SQL |
+| **Machine Learning & Modeling** | Regression, Classification, Clustering, Time Series (ARIMA/Prophet), XGBoost, Random Forest |
+| **Visualization & BI** | Matplotlib, Seaborn, Plotly Dash, Power BI, Tableau |
+| **Experimentation & Analytics**| A/B Testing, Statistical Analysis, Feature Engineering |
+| **Cloud & MLOps**| Git/GitHub, Azure ML Pipelines, Jupyter Notebooks |
 
 ### Featured Projects
 
