@@ -29,13 +29,13 @@
 
 ### About Me
 
-I am a **Data Scientist** specializing in turning complex data challenges into actionable insights. My focus is on Machine Learning, Predictive Modeling, and Analytics across multiple industries, from finance to healthcare and operations.
+I am a  **Data Scientist**  specializing in building end-to-end analytics solutions that drive business impact. I turn complex data challenges into actionable insights, focusing on Machine Learning, Predictive Modeling, and Advanced Analytics across multiple industries, from finance to healthcare and operations.
 
 
 #### Education & Expertise:
 **Master of Science (M.S.) in Management and Systems**, New York University (NYU): Specialization in **Database Technologies, Data Analytics, and Applied Data Science**.
 
-I am currently focused on **Time Series Forecasting, Predictive Modeling, and Advanced Analytics.** I continue learning to deepen my skills in ML Pipelines and Deployment Workflows. I thrive in collaborative environments, translating data into business impact.
+I thrive in collaborative environments, delivering data-driven solutions that support decision-making and operational efficiency.
 
 ###  My Technical Toolkit
 
