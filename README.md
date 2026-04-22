@@ -1,4 +1,5 @@
-𝓦𝓮𝓵𝓬𝓸𝓶𝓮 𝓽𝓸 𝓶𝔂 𝓓𝓪𝓽𝓪 𝓢𝓬𝓲𝓮𝓷𝓬𝓮 𝓪𝓷𝓭 𝓐𝓷𝓪𝓵𝔂𝓽𝓲𝓬𝓼 𝓗𝓾𝓫!
+𝓓𝓪𝓽𝓪 𝓢𝓬𝓲𝓮𝓷𝓬𝓮 & 𝓜𝓪𝓬𝓱𝓲𝓷𝓮 𝓛𝓮𝓪𝓻𝓷𝓲𝓷𝓰 𝓟𝓸𝓻𝓽𝓯𝓸𝓵𝓲𝓸
+
 
 
 <div align="center">
@@ -29,8 +30,7 @@
 
 ### About Me
 
-I am a  **Data Scientist**  specializing in building end-to-end analytics solutions that drive business impact. I turn complex data challenges into actionable insights, focusing on Machine Learning, Predictive Modeling, and Advanced Analytics across multiple industries, from finance to healthcare and operations.
-
+I am a  **Data Scientist** specializing in building end-to-end machine learning and statistical modeling solutions. I focus on feature engineering, model development, and evaluation to solve real-world problems using data.
 
 #### Education & Expertise:
 **Master of Science (M.S.) in Management and Systems**, New York University (NYU): Specialization in **Database Technologies, Data Analytics, and Applied Data Science**.
@@ -47,21 +47,30 @@ I thrive in collaborative environments, delivering data-driven solutions that su
 | **Experimentation & Analytics**| A/B Testing, Statistical Analysis, Feature Engineering |
 | **Cloud & MLOps**| Git/GitHub, Azure ML Pipelines, Jupyter Notebooks |
 
-### Featured Projects
+### Projects
+These projects highlight my ability to solve real-world problems using machine learning, statistical modeling, and end-to-end data science workflows. See more details on my **[Portfolio Website](https://nnekaasuzu.github.io/projects/)!**
 
-These projects highlight my ability to solve real-world problems using data science and analytics. See more details on my **[Portfolio Website](https://nnekaasuzu.github.io/projects/)!**
 
-| Project Name | Key Focus Areas | Repository Link |
-| :--- | :--- | :--- |
-| Credit Risk Prediction Model | Classification, Feature Engineering, ML Pipeline, ROC-AUC Optimization | [Go to Repo](https://github.com/NnekaAsuzu/Credit_Risk_Prediction) |
-| Financial Customer Retention Analytics | Churn Modeling, CLV, SQL Feature Store, Power BI Integration | [Go to Repo](https://github.com/NnekaAsuzu/Financial_Customer_Retention_Analytics) |
-| Financial Forecasting & Scenario Analysis | Time Series Forecasting, Monte Carlo Simulation, Plotly Dash App | [Go to Repo](https://github.com/NnekaAsuzu/Financial_Forecasting_Scenario) |
-| Healthcare Resource Forecasting | Volume Prediction, ARIMA, Simulation, Dashboard Automation | [Go to Repo](https://github.com/NnekaAsuzu/Healthcare_Resource_Forecasting) |
-| Marketing A/B Testing Simulator | Statistical Testing, Experiment Simulation, Automated Reporting | [Go to Repo](https://github.com/NnekaAsuzu/Marketing_AB_Testing_Simulator) |
-| Epidemiology: Toronto Outbreaks | Forecasting, Data Visualization, Trend Detection | [Go to Repo](https://github.com/NnekaAsuzu/Epidemiology_Toronto_Outbreaks) |
+#### Featured Projects (Machine Learning & Decision Systems)
+
+| Domain                         | Project                                               | Model Type                                                                       | Deployment                                          | Purpose                                                                        | Repo                                                                               |
+| :----------------------------- | :---------------------------------------------------- | :------------------------------------------------------------------------------- | :-------------------------------------------------- | :----------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
+| Finance & Risk Analytics       | Credit Risk Prediction Model                          | Classification (Logistic Regression → Random Forest → XGBoost)                   | Azure ML Endpoint + Power BI Dashboard              | Predict loan default risk and improve credit decisioning                       | [Go to Repo](https://github.com/NnekaAsuzu/credit_risk_loan_default_prediction)                 |
+| Operations & Supply Chain      | Supply Chain Risk Prediction & Inventory Optimization | Classification (Logistic Regression → XGBoost → AutoML Benchmark)                | Azure ML Managed Endpoint + Power BI Risk Dashboard | Predict high-risk suppliers and optimize inventory allocation                  | [Go to Repo](https://github.com/NnekaAsuzu/supply_chain_risk_prediction)        |
+| Customer Analytics & Marketing | Customer Value & Lifecycle Modeling                   | Clustering (K-Means + PCA), Regression (XGBoost for CLV), A/B Testing Simulation | Streamlit App                                       | Segment customers and predict lifetime value for targeted retention strategies | [Go to Repo](https://github.com/NnekaAsuzu/customer_value_lifecycle_modeling) |
+
+
+#### Supporting Projects (Applied Modeling & Analytics)
+
+| Domain                          | Project                              | Model Type                                                | Deployment                        | Purpose                                                   | Repo                                                                          |
+| :------------------------------ | :----------------------------------- | :-------------------------------------------------------- | :-------------------------------- | :-------------------------------------------------------- | :---------------------------------------------------------------------------- |
+| Healthcare Operations           | Healthcare Resource Forecasting      | Time Series (ARIMA, Random Forest) + Simulation           | Streamlit App                     | Forecast patient demand and optimize staffing decisions   | [Go to Repo](https://github.com/NnekaAsuzu/healthcare_workforce_optimization) |
+| Public Health Analytics         | Epidemiology: Toronto Outbreaks      | Time Series Forecasting (Prophet) + Trend Analysis        | Power BI Dashboard + ETL Pipeline | Detect outbreak trends and support public health planning | [Go to Repo](https://github.com/NnekaAsuzu/infection_outbreak_forecasting_toronto)    |
+| Forecasting & Scenario Modeling | Financial Forecasting & Scenario API | Forecasting (Linear Regression → Random Forest → Prophet) | Flask API                         | Provide revenue forecasting and scenario simulation       | [Go to Repo](https://github.com/NnekaAsuzu?tab=repositories)     |
+
 
   <div align="center">
-  <em>"The goal is to turn data into information, and information into insight."</em>
+  <em>End-to-end machine learning for real-world decision systems</em>
 </div>
 
 </div>
