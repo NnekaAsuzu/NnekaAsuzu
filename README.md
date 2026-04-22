@@ -66,7 +66,7 @@ These projects highlight my ability to solve real-world problems using machine l
 | :------------------------------ | :----------------------------------- | :-------------------------------------------------------- | :-------------------------------- | :-------------------------------------------------------- | :---------------------------------------------------------------------------- |
 | Healthcare Operations           | Healthcare Resource Forecasting      | Time Series (ARIMA, Random Forest) + Simulation           | Streamlit App                     | Forecast patient demand and optimize staffing decisions   | [Go to Repo](https://github.com/NnekaAsuzu/healthcare_workforce_optimization) |
 | Public Health Analytics         | Epidemiology: Toronto Outbreaks      | Time Series Forecasting (Prophet) + Trend Analysis        | Power BI Dashboard + ETL Pipeline | Detect outbreak trends and support public health planning | [Go to Repo](https://github.com/NnekaAsuzu/infection_outbreak_forecasting_toronto)    |
-| Forecasting & Scenario Modeling | Financial Forecasting & Scenario API | Forecasting (Linear Regression → Random Forest → Prophet) | Flask API                         | Provide revenue forecasting and scenario simulation       | [Go to Repo](https://github.com/NnekaAsuzu?tab=repositories)     |
+| Forecasting & Scenario Modeling | Financial Forecasting & Scenario API | Forecasting (Linear Regression → Random Forest → Prophet) | Flask API                         | Provide revenue forecasting and scenario simulation       | [Go to Repo](https://github.com/NnekaAsuzu/financial-forecasting-scenario-api)     |
 
 
   <div align="center">
