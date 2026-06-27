@@ -30,7 +30,7 @@
 
 ### About Me
 
-I am a  **Data Scientist** specializing in building end-to-end machine learning and statistical modeling solutions. I focus on feature engineering, model development, and evaluation to solve real-world problems using data.
+I am a **Data Scientist** with experience applying machine learning and statistical modeling to solve business problems. My work focuses on exploratory data analysis, feature engineering, model development, evaluation, and communicating insights through dashboards and visualizations that support data-driven decision-making.
 
 #### Education & Expertise:
 **Master of Science (M.S.) in Management and Systems**, New York University (NYU): Specialization in **Database Technologies, Data Analytics, and Applied Data Science**.
@@ -42,35 +42,30 @@ I thrive in collaborative environments, delivering data-driven solutions that su
 | Category | Tools & Technologies |
 | :--- | :--- |
 | **Programming & Data Tools** | Python (Pandas, NumPy, Scikit-learn), SQL |
-| **Machine Learning & Modeling** | Regression, Classification, Clustering, Time Series (ARIMA/Prophet), XGBoost, Random Forest |
-| **Visualization & BI** | Matplotlib, Seaborn, Plotly Dash, Power BI, Tableau |
-| **Experimentation & Analytics**| A/B Testing, Statistical Analysis, Feature Engineering |
-| **Cloud & MLOps**| Git/GitHub, Azure ML Pipelines, Jupyter Notebooks |
+| **Machine Learning** | Regression, Classification, Clustering, XGBoost, Random Forest |
+| **Statistics & Analytics**|Exploratory Data Analysis (EDA), Feature Engineering, Statistical Analysis, A/B Testing|
+| **Visualization & BI** |Power BI, Tableau, Plotly Dash, Matplotlib|
+| **Cloud & Tools**| Git/GitHub, Azure Machine Learning, AWS, Jupyter Notebooks |
 
 ### Projects
-These projects highlight my ability to solve real-world problems using machine learning, statistical modeling, and end-to-end data science workflows. See more details on my **[Portfolio Website](https://nnekaasuzu.github.io/projects/)!**
+These projects demonstrate practical applications of machine learning, statistical analysis, and data visualization to solve business problems. They showcase my approach to exploratory data analysis, feature engineering, model development, evaluation, and communicating actionable insights for data-driven decision-making. See more details on my **[Portfolio Website](https://nnekaasuzu.github.io/projects/)!**
 
 
-#### Featured Projects (Machine Learning & Decision Systems)
+#### Featured Machine Learning Projects
 
-| Domain                         | Project                                               | Model Type                                                                       | Deployment                                          | Purpose                                                                        | Repo                                                                               |
-| :----------------------------- | :---------------------------------------------------- | :------------------------------------------------------------------------------- | :-------------------------------------------------- | :----------------------------------------------------------------------------- | :--------------------------------------------------------------------------------- |
-| Finance & Risk Analytics       | Credit Risk Prediction Model                          | Classification (Logistic Regression → Random Forest → XGBoost)                   | Azure ML Endpoint + Power BI Dashboard              | Predict loan default risk and improve credit decisioning                       | [Go to Repo](https://github.com/NnekaAsuzu/credit_risk_loan_default_prediction)                 |
-| Operations & Supply Chain      | Supply Chain Risk Prediction & Inventory Optimization | Classification (Logistic Regression → XGBoost → AutoML Benchmark)                | Azure ML Managed Endpoint + Power BI Risk Dashboard | Predict high-risk suppliers and optimize inventory allocation                  | [Go to Repo](https://github.com/NnekaAsuzu/supply_chain_risk_prediction)        |
-| Customer Analytics & Marketing | Customer Value & Lifecycle Modeling                   | Clustering (K-Means + PCA), Regression (XGBoost for CLV), A/B Testing Simulation | Streamlit App                                       | Segment customers and predict lifetime value for targeted retention strategies | [Go to Repo](https://github.com/NnekaAsuzu/customer_value_lifecycle_modeling) |
+| Domain | Project | Machine Learning | Project Output | Purpose | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Finance & Risk Analytics** | Credit Risk Prediction Model | Logistic Regression, Random Forest, XGBoost | Azure ML (project deployment), Power BI Dashboard | Predict loan default risk to support credit risk assessment and lending decisions | [Go to Repo](https://github.com/NnekaAsuzu/credit_risk_loan_default_prediction) |
+| **Operations & Supply Chain** | Supply Chain Risk Prediction & Inventory Optimization | Logistic Regression, XGBoost, Azure AutoML | Azure ML (project deployment), Power BI Dashboard | Predict supplier delivery risk and support inventory planning | [Go to Repo](https://github.com/NnekaAsuzu/supply_chain_risk_prediction) |
+| **Customer Analytics** | Customer Value & Lifecycle Modeling | K-Means Clustering, PCA, XGBoost (CLV), A/B Testing Simulation | Streamlit Application | Segment customers, estimate Customer Lifetime Value (CLV), and evaluate retention strategies | [Go to Repo](https://github.com/NnekaAsuzu/customer_value_lifecycle_modeling) |
 
+#### Additional Applied Data Science Projects
 
-#### Supporting Projects (Applied Modeling & Analytics)
-
-| Domain                          | Project                              | Model Type                                                | Deployment                        | Purpose                                                   | Repo                                                                          |
-| :------------------------------ | :----------------------------------- | :-------------------------------------------------------- | :-------------------------------- | :-------------------------------------------------------- | :---------------------------------------------------------------------------- |
-| Healthcare Operations           | Healthcare Resource Forecasting      | Time Series (ARIMA, Random Forest) + Simulation           | Streamlit App                     | Forecast patient demand and optimize staffing decisions   | [Go to Repo](https://github.com/NnekaAsuzu/healthcare_workforce_optimization) |
-| Public Health Analytics         | Epidemiology: Toronto Outbreaks      | Time Series Forecasting (Prophet) + Trend Analysis        | Power BI Dashboard + ETL Pipeline | Detect outbreak trends and support public health planning | [Go to Repo](https://github.com/NnekaAsuzu/infection_outbreak_forecasting_toronto)    |
-| Forecasting & Scenario Modeling | Financial Forecasting & Scenario API | Forecasting (Linear Regression → Random Forest → Prophet) | Flask API                         | Provide revenue forecasting and scenario simulation       | [Go to Repo](https://github.com/NnekaAsuzu/financial-forecasting-scenario-api)     |
-
-
-  <div align="center">
-  <em>End-to-end machine learning for real-world decision systems</em>
-</div>
-
+| Domain | Project | Machine Learning | Project Output | Purpose | Repository |
+| :--- | :--- | :--- | :--- | :--- | :--- |
+| **Healthcare Operations** | Healthcare Resource Forecasting | ARIMA, Random Forest, Scenario Simulation | Streamlit Application | Analyze patient demand patterns and evaluate staffing scenarios | [Go to Repo](https://github.com/NnekaAsuzu/healthcare_workforce_optimization) |
+| **Public Health Analytics** | Toronto Infection Outbreak Analysis | Prophet, Trend Analysis | Power BI Dashboard | Analyze outbreak trends and support public health decision-making | [Go to Repo](https://github.com/NnekaAsuzu/infection_outbreak_forecasting_toronto) |
+| **Financial Analytics** | Financial Forecasting & Scenario Analysis | Linear Regression, Random Forest, Prophet | Flask Application | Explore revenue forecasting and scenario analysis using interactive predictions | [Go to Repo](https://github.com/NnekaAsuzu/financial-forecasting-scenario-api) |
+ <div align="center">
+  <em>Applied Machine Learning • Statistical Analysis • Data Visualization • Business Insights</em>
 </div>
